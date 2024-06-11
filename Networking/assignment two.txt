@@ -1,0 +1,28 @@
+Draw your Home Network Topology and explain how you are accessing the RPS Lab environment
+==========================================================================================
+
+                    Internet
+                       |
+                [Modem/Router]
+                       |
+               +-------+-------+
+               |               |
+          [Wireless AP]    [Ethernet Switch]
+               |                   |
+      +--------+-------+       +---+---+
+      |        |       |       |       |
+  [Smartphone][Laptop][Tablet][Desktop][NAS]
+
+1. Modem/Router*: This device connects to the ISP (Internet Service Provider) and serves as the gateway to the internet. It often has built-in routing and firewall functionalities.
+2. Wireless Access Point (AP)*: This provides wireless connectivity to devices like smartphones, laptops, and tablets.
+3. Ethernet Switch*: This connects multiple wired devices, such as desktops and Network Attached Storage (NAS) devices, allowing them to communicate within the network.
+
+
+### Accessing the RPS Lab Environment
+=====================================
+
+1. Secure Internet Connection*: Ensure your device (e.g., laptop or desktop) is connected to the internet via the modem/router.
+
+2. VPN (Virtual Private Network)*: Establish a secure VPN connection to the lab network. This provides a secure and encrypted tunnel for your data, ensuring privacy and security.
+
+3. Remote Desktop or SSH*: Depending on the lab environment, you might use Remote Desktop Protocol (RDP) for a graphical interface or Secure Shell (SSH) for command-line access. This allows you to control and interact with the lab's systems as if you were physically present.

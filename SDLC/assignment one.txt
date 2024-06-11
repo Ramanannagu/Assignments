@@ -1,0 +1,63 @@
+SDLC Overview - Create a one-page infographic that outlines the SDLC phases (Requirements, Design, Implementation, Testing, Deployment), highlighting the importance of each phase and how they interconnect.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Title: Software Development Life Cycle (SDLC)
+=============================================
+
+ Introduction:
+---------------
+A brief introduction to the SDLC, explaining it as a systematic process for planning, creating, testing, and deploying an information system.
+
+---
+ Phases of SDLC:
+
+1. Requirements
+-----------------
+    - *Importance*: Gathering and documenting the functional and non-functional requirements of the software.
+    - *Activities*: Stakeholder interviews, requirement workshops, creating requirement specifications.
+    - *Outcome*: Requirement Specification Document (RSD).
+    - *Interconnection*: Sets the foundation for the design phase.
+
+2. Design
+----------
+    - *Importance*: Translating requirements into detailed architectural and design specifications.
+    - *Activities*: System design, database design, user interface design, creation of design documents.
+    - *Outcome*: Design Specification Document (DSD), prototypes.
+    - *Interconnection*: Provides a blueprint for the implementation phase.
+
+3. Implementation
+-------------------
+    - *Importance*: Actual coding of the software application according to the design specifications.
+    - *Activities*: Writing code, source code management, creating databases.
+    - *Outcome*: Source Code, executable software modules.
+    - *Interconnection*: Development of software components to be tested in the next phase.
+
+4. Testing
+------------
+    - *Importance*: Ensuring the software functions as intended and is free of defects.
+    - *Activities*: Unit testing, integration testing, system testing, user acceptance testing.
+    - *Outcome*: Test reports, defect logs.
+    - *Interconnection*: Verifies that the implemented software meets the design and requirements before deployment.
+
+5. Deployment
+---------------
+    - *Importance*: Releasing the software to production and ensuring it operates in the live environment.
+    - *Activities*: Deployment planning, release management, monitoring and support.
+    - *Outcome*: Deployed software, user training manuals.
+    - *Interconnection*: Marks the transition from development to operation, enabling end-users to use the software.
+
+---
+
+Visual Representation:
+-----------------------
+
+- *Flowchart or Circular Diagram*: Show the phases in a sequential or cyclical manner, highlighting the continuous nature of the process.
+- *Icons and Colors*: Use distinct icons and colors for each phase to make it visually appealing.
+- *Connecting Arrows*: Illustrate how each phase feeds into the next, emphasizing the interconnections.
+
+---
+ Additional Elements:
+-----------------------
+- *Title*: Make it bold and clear at the top.
+- *Subheadings*: Use different font sizes and weights for each phase.
+- *Visual Balance*: Ensure there is enough white space to avoid clutter.

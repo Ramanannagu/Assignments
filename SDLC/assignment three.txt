@@ -1,0 +1,94 @@
+ Research and compare SDLC models suitable for engineering projects. Present findings on Waterfall, Agile, Spiral, and V-Model approaches, emphasizing their advantages, disadvantages, and applicability in different engineering contexts.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Waterfall Model
+==================
+*Overview*:
+The Waterfall model is a linear and sequential approach where each phase must be completed before the next one begins. It follows a strict order: Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
+
+*Advantages*:
+- Simple and easy to understand and use.
+- Well-defined stages and deliverables.
+- Good for projects with well-defined requirements.
+- Easy to manage due to rigidity and clarity.
+
+*Disadvantages*:
+- Inflexible to changes once a phase is completed.
+- Poor model for complex and object-oriented projects.
+- Testing phase comes late in the cycle, making it hard to go back and fix issues.
+- Not suitable for projects where requirements are expected to change.
+
+*Applicability*:
+- Suitable for projects with clear, fixed requirements and low risk of change.
+- Often used in construction, manufacturing, and other engineering disciplines with predictable processes.
+
+---
+
+2. Agile Model
+==============
+*Overview*:
+The Agile model focuses on iterative and incremental development, promoting flexibility and customer collaboration. It involves continuous planning, testing, integration, and other forms of continuous delivery.
+
+*Advantages*:
+- Highly flexible and adaptable to changes.
+- Encourages constant feedback and collaboration with stakeholders.
+- Delivers working software frequently, providing incremental progress.
+- Identifies and fixes issues quickly through continuous testing.
+
+*Disadvantages*:
+- Can be challenging to predict costs and timelines accurately.
+- Requires experienced team members who can manage self-organization.
+- Documentation can be neglected due to the focus on working software.
+- May lead to scope creep due to continuous changes and iterations.
+
+*Applicability*:
+- Ideal for projects with dynamic requirements and a high degree of uncertainty.
+- Commonly used in software development, R&D, and innovative engineering projects requiring rapid delivery and flexibility.
+
+---
+
+3. Spiral Model
+=================
+*Overview*:
+The Spiral model combines iterative development with systematic aspects of the Waterfall model. It emphasizes risk analysis and incorporates repeated cycles (spirals) of planning, risk assessment, development, and evaluation.
+
+*Advantages*:
+- Effective risk management through iterative refinement.
+- Allows for early detection and correction of issues.
+- Flexible to changes and can accommodate evolving requirements.
+- Incorporates user feedback at early stages.
+
+*Disadvantages*:
+- Can be more complex and costly due to its iterative nature.
+- Requires expertise in risk assessment and management.
+- Difficult to manage and control due to continuous changes.
+- Not suitable for small or low-risk projects.
+
+*Applicability*:
+- Suitable for large, complex, and high-risk projects where risk management is crucial.
+- Often used in aerospace, defense, and other engineering fields with significant uncertainties and risks.
+
+---
+
+4. V-Model:
+==========
+*Overview*:
+The V-Model is an extension of the Waterfall model, where each development phase is associated with a corresponding testing phase. It emphasizes validation and verification at each stage, ensuring quality control throughout the lifecycle.
+
+*Advantages*:
+- Emphasizes rigorous testing and validation at each development stage.
+- Clear and structured approach with well-defined stages.
+- Reduces risks of defects by addressing them early.
+- Ensures high-quality deliverables due to continuous testing.
+
+*Disadvantages*:
+- Inflexible to changes once a phase is completed.
+- Can be time-consuming and costly due to extensive testing.
+- Less effective for projects with uncertain or evolving requirements.
+- Requires thorough documentation and planning.
+
+*Applicability*:
+- Suitable for projects requiring high reliability and quality, such as medical devices, automotive, and safety-critical engineering systems.
+- Often used in regulated industries where validation and verification are critical.
+
+---

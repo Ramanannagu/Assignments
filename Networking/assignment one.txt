@@ -1,0 +1,50 @@
+Network terminology:-
+
+
+*ip address 
+*firewall 
+*router
+*DNS
+*switch
+*MAC Address
+*VPN 
+
+Ip address :
+
+An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
+Example: IPv4 address like 192.168.1.1 or IPv6 address like 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
+
+
+Switch:
+
+A network device that connects devices together on a local area network (LAN) and uses MAC addresses to forward data to the correct destination.
+Example: An Ethernet switch connecting multiple computers in an office.
+
+
+Firewall:
+
+ A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+ Example: A corporate firewall that blocks access to certain websites.
+
+DNS:
+   A hierarchical system for naming resources on the Internet(Domain Name System). It translates human-readable domain names to IP addresses.
+   Example: Translating the domain name www.example.com to the IP address 93.184.216.34.
+
+Bandwidth:
+   The maximum rate of data transfer across a given path. Bandwidth is measured in bits per second .
+   Example: A high-speed internet connection with a bandwidth of 100 Mbps.
+
+Router:
+ 
+ A router is a device that connects two or more packet-switched networks or subnetworks.Routers allow devices to connect and share data over the Internet or an intranet. A router is a      gateway that passes data between one or more local area networks 
+Example:when a user sends a request for a server, the router on the local network will examine its routing table and decide where to relay the data.
+
+
+MAC Address:
+
+   Definition: A hardware identification number that uniquely identifies each device on a network.
+   Example: 00:1A:2B:3C:4D:5E.
+
+ VPN :
+    Definition: A service that allows you to connect to the internet via an encrypted tunnel to ensure your online privacy and protect your sensitive data.
+    Example: Using a VPN service to securely connect to your company’s network while working remotely.
