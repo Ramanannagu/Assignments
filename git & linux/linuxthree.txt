@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+print_file_line_count() {
+    local filename=$1
+    if [[ -e $filename ]]; then
+        local line_count=$(wc -l < "$filename")
+        echo "The file '$filename' has $line_count lines."
+    else
+        echo "File '$filename' not found."
+    fi
+}
